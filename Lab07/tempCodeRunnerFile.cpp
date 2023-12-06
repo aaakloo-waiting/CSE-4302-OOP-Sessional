@@ -1,0 +1,1 @@
+    // king["Akbar"]=nG;

@@ -1,0 +1,51 @@
+5/week:
+
+5 problems->
+weekdays-> contest, academic
+
+STL
+
+1. Binary Search
+2. vector 
+3. list 
+4. set 
+5. unordered_set 
+6. Multiset 
+7. Ordered 
+8. Map
+9. Multimap
+10. unordered_map
+11. stack
+12. Queue
+13. Deque
+14. Priority Queue
+15. Forward list
+16. unordered_multiset
+17. unordered_multimap
+18. Trie
+19. Hashing
+20. DSU
+21. Segment Tree
+
+*Recursion and Backtracking
+*Dynamic Programming
+
+1. BFS
+2. DFS
+3. Dijkstra
+4. Floyd Warshall
+5. Cycle detection or union find
+6. prims/kruskals algo
+7. Topological sort
+8. Boggle(Finding all possible word from a board of characters)
+9. Bellman Ford
+
+
+* LA assignment
+* EEE assignment
+* EEE lab report
+* OOP project
+*** DBMS study(JDBC lab)
+
+// Lightoj, cses all solve 
+***codechef, cf no contest miss

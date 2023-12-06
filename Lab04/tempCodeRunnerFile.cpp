@@ -1,0 +1,1 @@
+Student::totalStudent = 0;
